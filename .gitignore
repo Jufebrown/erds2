@@ -29,6 +29,8 @@ build/Release
 # Dependency directories
 node_modules
 jspm_packages
+ChinookDatabase1.4_CompleteVersion
+ChinookDatabase1.4_CompleteVersion.zip
 
 # Optional npm cache directory
 .npm
